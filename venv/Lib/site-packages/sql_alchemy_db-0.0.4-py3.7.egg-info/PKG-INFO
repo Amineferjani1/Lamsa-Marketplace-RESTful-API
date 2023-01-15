@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: sql-alchemy-db
+Version: 0.0.4
+Summary: SQLAlchemy utility library
+Home-page: https://github.com/alenlukic/sql-alchemy-db
+Author: Alen Lukic
+License: UNKNOWN
+Download-URL: https://github.com/alenlukic/sql-alchemy-db/archive/0.0.4.zip
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3, <4
